@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Mostafa Kamal [(@code4mk](https://github.com/code4mk)
+I am Mostafa Kamal. Maintainer of [@code4mk](https://github.com/code4mk)
 
 # Skill
 
