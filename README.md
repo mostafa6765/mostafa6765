@@ -8,7 +8,7 @@ Skills:
 - Experienced JavaScript Engineer (typeScript|es6|express|fastify|nest.js).
 - JS front-end framework - React(next.js)|Vue.js(nuxt.js)|Angular.
 -  Automation workflow and tooling.
-- DevOps (aws,nginx,docker,serverless).
+- DevOps (aws,nginx,docker,serverless,terraform).
 - Software testing.
 - Blockchain (web3,ether.js,solidity,ethereum,erc20).
 - socket.io , webRTC. 
