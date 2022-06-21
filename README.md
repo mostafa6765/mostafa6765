@@ -1,4 +1,7 @@
-Code artist, open-source enthusiastic, software engineer.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=code+artist+%2C+devops;software+engineer)](https://git.io/typing-svg)
+
+Code artist, open-source enthusiastic, software engineer, devops.
+
 
 I have more than 5 years of experience in the software engineering sector. I am crazy about code so I have interested latest and different type of technology. I have a small organization (code4mk.org), which main motto is fun with code, there has a lot of programming resources and tips.
 
@@ -20,3 +23,6 @@ Link:
 - https://github.com/code4mk
 - https://code4mk.org 
 - https://code4mk.medium.com
+
+Email:
+- hiremostafa@gmail.com
