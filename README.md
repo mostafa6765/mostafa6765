@@ -7,13 +7,14 @@ I have more than 5 years of experience in the software engineering sector. I am 
 
 Skills:
 - Software architect.
-- Experienced PHP(laravel) | node.js | Golang | Python(django,flask).
-- Experienced JavaScript Engineer (typeScript|es6|express|fastify|nest.js).
-- JS front-end framework - React(next.js)|Vue.js(nuxt.js)|Angular.
--  Automation workflow and tooling.
-- DevOps (aws,nginx,docker,serverless,terraform).
+- Experienced PHP(laravel), node.js, Golang(go-gin), Python(django,flask).
+- Experienced JavaScript Engineer - (typeScript, es6, express, fastify, nest.js , ...).
+- JS front-end framework - React(next.js), Vue.js(nuxt.js), Angular.
+- Automation workflow and tooling development.
+- DevOps (aws, nginx, docker, serverless, terraform, ansible).
+- CI/CD ( github action, circleci, jenkins)
 - Software testing.
-- Blockchain (web3,ether.js,solidity,ethereum,erc20).
+- Blockchain (blockchain core, web3, ether.js, solidity, ethereum, erc20).
 - socket.io , webRTC. 
 
 
