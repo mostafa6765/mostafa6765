@@ -9,7 +9,7 @@ Skills:
 - Software architect.
 - Experienced PHP(laravel), node.js, Golang(go-gin), Python(django,flask).
 - Experienced JavaScript Engineer - (typeScript, es6, express, fastify, nest.js , ...).
-- JS front-end framework - React(next.js), Vue.js(nuxt.js), Angular.
+- JS front-end framework - React(next.js), Vue.js(nuxt.js).
 - Automation workflow and tooling development.
 - DevOps (git, bash, docker, terraform, ansible, nginx, aws).
 - CI/CD ( github action, circleci, jenkins)
