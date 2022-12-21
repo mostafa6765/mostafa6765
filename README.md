@@ -3,7 +3,7 @@
 Code artist, open-source enthusiastic, software engineer, devops.
 
 
-I have more than 5 years of experience in the software engineering sector. I am crazy about code so I have interested latest and different type of technology. I have a small organization (code4mk.org), which main motto is fun with code, there has a lot of programming resources and tips.
+I have more than 5 years of experience in the software engineering sector. I have interested latest, different types of technology and am eager to learn new technology. I have a small organization (code4mk.org), which main motto is fun with code, there has a lot of programming resources and tips.
 
 Skills:
 - Software architect.
@@ -20,10 +20,10 @@ Skills:
 
 I am known as @code4mk on social media. you can find me -  @code4mk
 
-Link:
-- https://github.com/code4mk
-- https://code4mk.org 
-- https://code4mk.medium.com
+Profile:
+- [https://github.com/code4mk](https://github.com/code4mk)
+- [https://code4mk.org](https://code4mk.org)
+- [https://code4mk.medium.com](https://code4mk.medium.com)
 
 Email:
 - hiremostafa@gmail.com
