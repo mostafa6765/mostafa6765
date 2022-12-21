@@ -27,9 +27,3 @@ Profile:
 
 Email:
 - hiremostafa@gmail.com
-
----
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mostafa6765/count.svg" />
-</p>
