@@ -3,7 +3,7 @@
 software engineer, devops.
 
 
-I have more than 6 years of experience in the software engineering sector. I have interested latest, different types of technology and am eager to learn new technology. I have a small organization (code4mk.org), which main motto is fun with code, there has a lot of programming resources and tips.
+I have more than 7 years of experience in the software engineering sector. I have interested latest, different types of technology and am eager to learn new technology. I have a small organization (code4mk.org), which main motto is fun with code, there has a lot of programming resources and tips.
 
 Skills:
 - Software architect.
