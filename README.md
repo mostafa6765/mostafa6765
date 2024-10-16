@@ -7,7 +7,7 @@ I am a software engineer with over 8 years of experience in the industry. I writ
 
 Skills:
 - Software architect.
-- Experienced PHP(laravel), node.js, Python(fastify).
+- Experienced Python(django,fastapi,flask), PHP(laravel), node.js,.
 - Experienced JavaScript Engineer - (typeScript, es6, express, fastify, nest.js , ...).
 - JS front-end framework - React(next.js), Vue.js(nuxt.js).
 - Automation workflow and tooling development.
